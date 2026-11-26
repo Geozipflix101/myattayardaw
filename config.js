@@ -16,17 +16,17 @@ window.SITE_CONFIG = {
   /* ၂။ ဗီဒီယိုစာရင်း - ဗီဒီယိုအသစ်တင်တိုင်း အပေါ်ဆုံးမှာ တစ်ကြောင်းထပ်ထည့်ပါ။
      ပင်မစာမျက်နှာမှာ အပေါ်ဆုံး ၃ ခုကိုပဲ ပြပါမယ်၊ ဗီဒီယိုစာမျက်နှာမှာ အကုန်ပြပါမယ်။ */
   videos: [
-     { id: "LFnM4sWNkEw", title: "မေတ္တာရောင်ခြည်" },
-         { id: "HK3tUTSiZKU", title: "မေတ္တာရေစင်" },
-     { id: "cIb96UIn1RU", title: "stress သောကကင်းဝေး" },
+    { id: "LFnM4sWNkEw", title: "မေတ္တာရောင်ခြည်(Ai myanmar dhamma song)" },
+    { id: "HK3tUTSiZKU", title: "မေတ္တာရေစင်(Ai myanmar dhamma song)" },
+    { id: "cIb96UIn1RU", title: "stress သောကကင်းဝေး" },
     { id: "VDYp4bw7Ak8", title: "သည်းခံခြင်းနဲ့ကိုယ်ကျင့်တရား" },
-    { id: "4kOwJoe_PrM", title: "မဟာသမယ" },
+    { id: "4kOwJoe_PrM", title: "မဟာသမယသုတ်တရားတော်" },
     { id: "UaJFP3T-ey8", title: "မေတ္တာသုတ်" },
     { id: "D8OrU2ZITlk", title: "စွမ်းအားကြီးမားလူ့ခွန်အား" },
     { id: "mh7igUuNh9E", title: "သဗ္ဗုဒေ" },
     { id: "aiKLc_CYIIk", title: "ဒေါသထိန်းချုပ်ခြင်း" },
-    { id: "rcwHvZ0vfrk", title: "လူတိုင်းလိုက်နာရန်(၁)" },
-    { id: "b6AVlUgpUgc", title: "လူတိုင်းလိုက်နာရန်(၂)" },
+    { id: "rcwHvZ0vfrk", title: "လူတိုင်းလိုက်နာရန်တရား(၁)" },
+    { id: "b6AVlUgpUgc", title: "လူတိုင်းလိုက်နာရန်တရား(၂)" },
     { id: "Jcz4JqWMLro", title: "အမှားအမှန်ခွဲခြားတက်စေရန်" },
     { id: "l7nM6iPNDQ0", title: "သဘာဝတရားနဲ့စိတ်၏ငြိမ်းချမ်းမှု" },
     { id: "5NXVHlnxxmM", title: "သီတင်းကျွတ်" },
