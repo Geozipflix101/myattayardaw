@@ -345,3 +345,57 @@ a:hover { color: var(--river-deep); }
   .scene { height: 13rem; }
   .section { padding: 4rem 0; }
 }
+
+/* ---------- ဗီဒီယိုဖွင့်သည့် ပြတင်းပေါက်ကြီး ---------- */
+
+.modal-open { overflow: hidden; }
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  background: rgba(5, 25, 27, 0.94);
+  overflow-y: auto;
+}
+
+.modal-box {
+  width: min(100%, 64rem, calc((100vh - 10rem) * 1.7778));
+  min-width: min(100%, 20rem);
+}
+
+.modal-close {
+  display: block;
+  min-height: 2.75rem;
+  margin: 0 0 0.75rem auto;
+  padding: 0.4rem 1.25rem;
+  border: 2px solid #e4f1ef;
+  border-radius: 999px;
+  background: transparent;
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.modal-close:hover { background: rgba(255, 255, 255, 0.12); }
+
+.modal-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+.modal-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.modal-title { margin: 0.75rem 0 0; color: #fff; font-weight: 600; }
+.modal-yt { display: inline-block; margin-top: 0.25rem; color: #fbd7a0; }
+.modal-yt:hover { color: #fff; }
